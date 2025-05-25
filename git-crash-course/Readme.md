@@ -88,7 +88,7 @@ gh auth login
 gh repo clone andrew-wc-brown/Github-Examples
 ```
 
-## Commits
+## Commits for ozy
 
 
 When we want to commit code we can write git commit which will open up the commit edit message in the editor of choice.
